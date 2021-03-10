@@ -1,1 +1,4 @@
 new file 2
+some changes on file
+nice comments
+much more things
